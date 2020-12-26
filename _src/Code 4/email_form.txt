@@ -1,0 +1,6 @@
+<form style="border:0px;" action="http://feedburner.google.com/fb/a/mailverify" method="post" target="popupwindow" onsubmit="window.open('http://feedburner.google.com/fb/a/mailverify?uri=wpbizguru', 'popupwindow', 'scrollbars=yes,width=550,height=520');return true">
+<p>To receive our main feed by email, type your email address and hit enter:</p>
+<input type="text" style="width:100px" name="email"/>
+<input type="hidden" value="wpbizguru" name="uri"/>
+<input type="hidden" name="loc" value="en_US"/>
+</form>
